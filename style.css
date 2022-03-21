@@ -29,3 +29,10 @@ body
     text-align: center;
     background-color: darkred;
 }
+
+canvas
+{
+    border: 5px ridge white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
